@@ -9,6 +9,7 @@ report.html
 venv/
 
 # Ignore PyCharm settings
+idea/
 .idea/
 
 # Ignore compiled Python files
